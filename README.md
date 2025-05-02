@@ -25,6 +25,12 @@
   - Discord: `@nesquikdeveloper`  
   - E-mail: [contato.alvinzaum@gmail.com](mailto:contato.alvinzaum@gmail.com)
 
+### 👤 Perfil no Discord
+
+<img src="https://media.discordapp.net/attachments/1167676377286324224/1367926319207157871/ChatGPT_Image_Apr_30_2025_03_55_44_PM.png?ex=68165c29&is=68150aa9&hm=724ac36761c9415db5506b84563e79200e3a88082b127b73f2d379dbbc5088a9&=&format=webp&quality=lossless&width=963&height=963" width="100" alt="nesquikdeveloper" />
+
+> *“Sua bio do Discord aqui, tipo: ‘Desenvolvedor full stack e criador de mundos em blocos.’”*
+
 ---
 
 ### 💻 Minhas especialidades:
