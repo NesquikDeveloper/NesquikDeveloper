@@ -1,5 +1,5 @@
 # Nesquik 👨‍💻
-Desenvolvedor fullstack com 19 anos. Faço de tudo um pouco, com foco em performance e criatividade.
+Desenvolvedor fullstack com 20 anos. Faço de tudo um pouco, com foco em performance e criatividade.
 
 ## 🚀 O que eu crio:
 * Apps e sites modernos
