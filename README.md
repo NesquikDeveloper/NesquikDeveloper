@@ -1,40 +1,23 @@
-# Olá, pessoal! 👋
+# Nesquik 👨‍💻
+Desenvolvedor fullstack com 19 anos. Faço de tudo um pouco, com foco em performance e criatividade.
 
-- Me chamo Nesquik, sou desenvolvedor e programador raiz!  
-  Tenho 19 anos e **estudo programação desde os primórdios do século dos matuto**! 😄
+## 🚀 O que eu crio:
+* Apps e sites modernos
+* Plugins e mods para Minecraft
+* Bots e automações com Python
+* Sistemas Linux e ferramentas CLI
 
-- 🚀 Desenvolvo de tudo um pouco:
-  - **Aplicativos**
-  - **Sites**
-  - **Plugins para Minecraft**
-  - **Mods**
-  - **Automatizações com Python**
-  - **Sistemas em Linux**
-  - E o que mais a criatividade permitir!
+## 💻 Tecnologias que uso:
+* **Python**, **PHP**, **JavaScript**, **Java (Spigot/Bukkit)**
+* **CSS**, **Linux**, **TPL/TLS**
 
-- 👨‍💻 Tecnologias que domino:
-  - **Python**, **PHP**, **JavaScript**
-  - **CSS**, **TPL**, **TLS**
-  - **Linux**
-  - **Java (Spigot/Bukkit para plugins de Minecraft)**
+> Estudando atualmente: **Spring Framework**
 
-- 🧠 Atualmente estou estudando **Spring Framework**!
+## 📬 Contato
+* Discord: `@nesquikdeveloper`
+* Email: [contato.alvinzaum@gmail.com](mailto:contato.alvinzaum@gmail.com)
 
-- 📫 Pode falar comigo no **Discord** ou por **e-mail**:
-
-  - Discord: `@nesquikdeveloper`  
-  - E-mail: [contato.alvinzaum@gmail.com](mailto:contato.alvinzaum@gmail.com)
-
-### 👤 Perfil no Discord
-
-<img src="https://media.discordapp.net/attachments/1167676377286324224/1367926319207157871/ChatGPT_Image_Apr_30_2025_03_55_44_PM.png?ex=68165c29&is=68150aa9&hm=724ac36761c9415db5506b84563e79200e3a88082b127b73f2d379dbbc5088a9&=&format=webp&quality=lossless&width=963&height=963" width="100" alt="nesquikdeveloper" />
-
-> *“Mesmo quando tudo dá errado e os falsos amigos vão embora, continuo firme. O erro não me define, o que me define é seguir em frente com o que eu amo fazer. Ninguém vai me derrubar, sigo meu caminho, sempre de pé”*
-
----
-
-### 💻 Minhas especialidades:
-
+## 🔧 Skills
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
@@ -44,3 +27,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white" />
 </p>
+
+### 🧠 Filosofia
+> *"Erro não me define. O que me define é continuar firme fazendo o que amo. Sempre de pé."*
