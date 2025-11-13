@@ -45,7 +45,7 @@
 
 <h2 align="center">🤖 Most Used</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewzado&layout=compact&theme=dark" alt="Top Languages Card">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NesquikDeveloper&layout=compact&theme=dark" alt="Top Languages Card">
 </div>
 
 <h1 align="center">
@@ -78,8 +78,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eukiq&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewzado&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nesquikdeveloper&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesquikdeveloper&theme=tokyonight" alt="GitHub Streak" width="400"/>
 </p>
 
 <h1 align="center">
