@@ -13,7 +13,7 @@
 
 ### Nesquik
 </a>
-<p>My name is Douglas, I'm a Java developer who creates Minecraft plugins for versions `1.8.x to 1.21.x`. I love building scalable and robust applications.</p>
+<p>My name is Douglas, I'm a Java developer who creates Minecraft plugins for versions ``1.8.x a 1.21.x``. I love building scalable and robust applications.</p>
 <p>When I'm not coding, I enjoy reading about different programming paradigms and helping new developers grow.</p>
 
 <div align="center">  
